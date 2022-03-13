@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Simple_ans">lab04>
+        <item>Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.</item>
+    <item>The Android SDK is a software development kit that includes a comprehensive set of development tools. These include a debugger, libraries, a handset emulator based on QEMU, documentation, sample code, and tutorials.</item>
+    <item>The Android Emulator simulates Android devices on your computer so that you can test your application on a variety of devices and Android API levels without needing to have each physical device. The emulator provides almost all of the capabilities of a real Android device</item>
+    <item>Android App Bundle: Google Play uses the app bundle to generate and optimize APKs for distribution for different device configurations and languages.</item>
+    <item>Android architecture refers to the various layers in the Android stack. It consists of operating systems, middleware, and applications. </item>
+    <item>An Intent in the Android operating system is a software mechanism that allows users to coordinate the functions of different activities to achieve a task.</item>
+    <item>Padding in Android is used to add a blank space between a view and its contents.</item>
+     <item>Android Studio supports a variety of XML attributes in the tools namespace that enable design-time features (such as which layout to show in a fragment) or compile-time behaviors (such as which shrinking mode to apply to your XML resources). When you build your app, the build tools remove these attributes so there is no effect on your APK size or runtime behavior.</item>
+    <item>ConstraintLayout has dual power of both Relative Layout as well as Linear layout: Set relative positions of views ( like Relative layout ) and also set weights for dynamic UI (which was only possible in Linear Layout).</item>
+   <item>An activity provides the window in which the app draws its UI. This window typically fills the screen, but may be smaller than the screen and float on top of other windows.</item>
+
+
+
+    </string-array>
+</resources>

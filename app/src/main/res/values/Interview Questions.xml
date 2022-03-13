@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_ques">lab04>
+        <item>What is ANDROID ?</item>
+        <item>What is Google Android SDK ?</item>
+        <item>What is Android Emulator</item>
+        <item>What is the use of Android Bundle</item>
+        <item>What are the features of Android Architecture </item>
+        <item>What is an Intent ?</item>
+        <item>What is padding ?</item>
+        <item>What are the attributes in Android ?</item>
+        <item>What is Constarint layout ?</item>
+        <item>What is activities in Android ?</item>
+
+    </string-array>
+</resources>
